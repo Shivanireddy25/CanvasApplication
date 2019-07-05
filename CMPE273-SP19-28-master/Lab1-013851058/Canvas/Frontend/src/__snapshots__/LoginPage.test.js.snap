@@ -1,0 +1,93 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`MyComponent Rendering Login Page 1`] = `
+<div
+  className="Fullpage"
+>
+  <div
+    align="center"
+    className="LoginPage"
+  >
+    <div
+      className="Login"
+    >
+      <div>
+        <div>
+          <h3
+            className="loginheader"
+          >
+            Connecting to 
+            <span
+              className="titlespan"
+            >
+              SJSU
+            </span>
+          </h3>
+          <h6
+            className="loginheader loginheadersub"
+          >
+            Sign in with your SJSU ID
+          </h6>
+        </div>
+        <div
+          className="logodiv"
+        >
+          <img
+            alt="Logo"
+            className="loginlogo"
+            src="https://d92mrp7hetgfk.cloudfront.net/images/sites/misc/san_jose_state_u-1/standard.png?1548463655"
+          />
+        </div>
+      </div>
+      <form
+        align="center"
+      >
+        <ForwardRef(Bootstrap(FormGroup))
+          controlId="name"
+        >
+          <ForwardRef(ContextTransform)
+            onChange={[Function]}
+            placeholder="Name"
+            type="text"
+            value=""
+          />
+        </ForwardRef(Bootstrap(FormGroup))>
+        <ForwardRef(Bootstrap(FormGroup))
+          controlId="password"
+        >
+          <ForwardRef(ContextTransform)
+            onChange={[Function]}
+            placeholder="Password"
+            type="password"
+            value=""
+          />
+        </ForwardRef(Bootstrap(FormGroup))>
+        <ForwardRef(Bootstrap(Button))
+          block={true}
+          onClick={[Function]}
+          type="button"
+        >
+          Sign In As Student
+        </ForwardRef(Bootstrap(Button))>
+        <ForwardRef(Bootstrap(Button))
+          block={true}
+          onClick={[Function]}
+          type="button"
+        >
+          Sign In As Faculty
+        </ForwardRef(Bootstrap(Button))>
+        Not a Member?  
+        <Link
+          replace={false}
+          to="/signup"
+        >
+          Signup
+        </Link>
+        <p>
+            
+        </p>
+      </form>
+    </div>
+  </div>
+</div>
+`;

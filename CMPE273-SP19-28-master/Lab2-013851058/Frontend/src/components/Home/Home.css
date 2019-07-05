@@ -1,0 +1,86 @@
+.Logo {
+    background-image: url(../../images/sjsuIcon.png);
+  }
+  .row {
+      width : 1500px;
+      height :100px;
+      
+  }
+  body {
+      background-color: white;
+  }
+
+  #courseSection {
+    display : inline
+  }
+
+  .container {
+      margin-left: 0;
+  }
+
+  .col-sm-1 {
+      background-color: lightsteelblue;
+      width :100px;
+      padding-right: 0px
+  }
+
+  #icon {
+      background-image: url("../../images/SJSU.png");
+      background-repeat: no-repeat
+  }
+
+  #icon1 {
+    background-image: url("../../images/p.jpg");
+    background-repeat: no-repeat
+}
+
+  #menu-item {
+      width: 100px;
+      margin-left: 0px;
+      
+  }
+
+  #home {
+    background-image: url("../../images/home.png");
+    width : 50px;
+    height : 50px;
+    background-repeat: no-repeat
+  }
+.container {
+  height: 100px;
+  width: 1430px;
+  margin-right: 0px;
+}
+
+.has-search .form-control {
+   
+width: 252px;
+margin-left: 200px;
+  }
+  
+  .has-search .form-control-feedback {
+    position: absolute;
+    z-index: 2;
+    display: block;
+    width: 2.375rem;
+    height: 2.375rem;
+    line-height: 2.375rem;
+    text-align: center;
+    pointer-events: none;
+    color: #aaa;
+  }
+
+  .card {
+    width: 220px;
+    height: 240px;
+    margin: 15px;
+    display:  inline-block;
+    width: 302px;
+    left: 150px;
+  }
+/*width: 200px;
+margin-left: 300px; */
+
+
+
+

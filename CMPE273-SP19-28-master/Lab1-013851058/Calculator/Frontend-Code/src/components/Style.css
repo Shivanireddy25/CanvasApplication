@@ -1,0 +1,12 @@
+.button {
+   
+}
+
+.butto {
+    width : 50px;
+    height : 50px;
+    background-color: grey
+}
+.calculator-body {
+    background-image: url("./calculator.jpeg");
+}

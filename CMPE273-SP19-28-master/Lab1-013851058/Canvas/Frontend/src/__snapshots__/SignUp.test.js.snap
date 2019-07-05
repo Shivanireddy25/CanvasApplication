@@ -1,0 +1,87 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`MyComponent Check the snapshot after sending props 1`] = `
+<div
+  className="LoginPage - Component"
+>
+  <div
+    className="Login"
+  >
+    <div>
+      <h2
+        align="center"
+      >
+        Sign Up now!!
+      </h2>
+    </div>
+    <form
+      align="center"
+    >
+      <ForwardRef(Bootstrap(FormGroup))
+        controlId="email"
+      >
+        <ForwardRef(ContextTransform)>
+          Email
+        </ForwardRef(ContextTransform)>
+        <ForwardRef(ContextTransform)
+          autoFocus={true}
+          onChange={[Function]}
+          type="email"
+          value=""
+        />
+      </ForwardRef(Bootstrap(FormGroup))>
+      <ForwardRef(Bootstrap(FormGroup))
+        controlId="password"
+      >
+        <ForwardRef(ContextTransform)>
+          Password
+        </ForwardRef(ContextTransform)>
+        <ForwardRef(ContextTransform)
+          onChange={[Function]}
+          type="password"
+          value=""
+        />
+      </ForwardRef(Bootstrap(FormGroup))>
+      <ForwardRef(Bootstrap(FormGroup))
+        controlId="name"
+      >
+        <ForwardRef(ContextTransform)>
+          Name
+        </ForwardRef(ContextTransform)>
+        <ForwardRef(ContextTransform)
+          onChange={[Function]}
+          type="text"
+          value=""
+        />
+      </ForwardRef(Bootstrap(FormGroup))>
+      <fieldset>
+        <div
+          onChange={[Function]}
+        >
+          I am a  
+          <input
+            name="gender"
+            type="radio"
+            value="student"
+          />
+           Student  
+          <input
+            name="gender"
+            type="radio"
+            value="faculty"
+          />
+           Faculty
+        </div>
+      </fieldset>
+      <ForwardRef(Bootstrap(Button))
+        block={true}
+        disabled={true}
+        onClick={[Function]}
+        type="button"
+      >
+        Create an account
+      </ForwardRef(Bootstrap(Button))>
+    </form>
+  </div>
+</div>
+`;

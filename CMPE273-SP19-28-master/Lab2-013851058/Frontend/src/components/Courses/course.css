@@ -1,0 +1,20 @@
+
+.card {
+    width : 402px;
+    height :202px;
+}
+
+#v-pills-tab {
+    margin-left: 100px;
+    width : 100px;
+    position : fixed;
+}
+
+#courseButton {
+    width :142px;
+    border-left-width: 2px;
+}
+
+.quiztab > a {
+    color : red
+}

@@ -1,0 +1,18 @@
+#header {
+    width : 100px
+}
+.coursesearch{
+    margin: 0 auto;
+    padding:0 25px 0 50px;
+    text-align: center;
+}
+
+.searchinput{
+    text-align: center;
+    margin: 0 auto;
+    width: 80%;
+}
+
+.term{
+    color:grey;
+}
